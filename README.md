@@ -8,6 +8,8 @@ https://github.com/lips-hci/stereo_ae400
 
 Details of the camera @
 
-https://www.lips-hci.com/product?product_id=29
+https://www.lips-hci.com/product-page/lipsedge-ae400-industrial-3d-camera
 
-https://www.youtube.com/watch?v=kyjbJSM6CjQ
+LIPSedge™ AE400 3D camera - 360° product view and introduction on LIPS youtube channel
+
+[![AE400 Industrial 3D Camera](http://img.youtube.com/vi/kyjbJSM6CjQ/hqdefault.jpg)](https://www.youtube.com/watch?v=kyjbJSM6CjQ "LIPSedge™ AE400 Industrial 3D Camera")
